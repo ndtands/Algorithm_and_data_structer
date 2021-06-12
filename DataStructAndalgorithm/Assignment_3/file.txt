@@ -1,0 +1,6 @@
+ID,Name,BirthDay,BirthPlace
+1,Ha, 12/09/90, Ha Noi
+4,Lan , 04/04/87, Hai Phong
+2, An, 1/1/92, Binh Dinh
+5,Tuan,02/02/89, Nam Dinh
+3, Binh, 02/02/89, Dong Thap

@@ -1,0 +1,9 @@
+ID,Name,BirthDay,BirthPlace
+10,Ha, 12/09/90, Ha Noi
+4,Lan , 04/04/87, Hai Phong
+15, An, 1/1/92, Binh Dinh
+11,Tuan,02/02/89, Nam Dinh
+17, Binh, 02/02/89, Dong Thap
+16, Bi, 02/02/89, Dong Thap
+19, VCA, 02/02/89, Dong Thap
+3, ÀD, 02/02/89, Dong Thap
