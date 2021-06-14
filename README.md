@@ -1,4 +1,4 @@
-# Algorithm_and_data_structer
+# Algorithm_and_data structures
 ## Algorithm
 - Greedy
 - Dynamic Processing
